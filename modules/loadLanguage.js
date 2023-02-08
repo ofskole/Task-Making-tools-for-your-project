@@ -1,7 +1,7 @@
-import dictionary from "./dictionary.js";
+let dictionary = require ("./dictionary.js");
 
 const loadLanguages = (language) => {
     return dictionary[language];
 };
 
-export default loadLanguages;
+module.exports = loadLanguages;
