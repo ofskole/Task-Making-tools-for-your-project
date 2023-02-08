@@ -5,6 +5,9 @@ const PORT = process.env.PORT || 8080;
 server.set("port", PORT);
 
 const languages = require("./modules/language.js");
+const dictionary = require("./modules/dictionary.js");
+const loadLanguages = require("./modules/loadLanguage.js");
+
 
 // middleware ---------------------------
 
@@ -12,6 +15,9 @@ server.use(express.static("public"));
 server.use(express.json());
 
 server.use(languages);
+server.use(dictionary);
+server.use(loadLanguages);
+
 
 // general error handling -----------------------
 
