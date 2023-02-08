@@ -4,7 +4,7 @@ const server = express();
 const PORT = process.env.PORT || 8080;
 server.set("port", PORT);
 
-const languages = require("./modules/loadLanguage.js");
+const languages = require("./modules/language.js");
 
 // middleware ---------------------------
 
