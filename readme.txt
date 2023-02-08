@@ -1,2 +1,1 @@
-1. Write the required language in the json files or add your own json language file.
-2. Load the required language using the loadLanguage.js file. The language needs to be passed as an argument to the function. Here we have it set to english via the const selectedLanguage.
+Once (but also still) the home of a language module, but now soon to be kick-ass multilingual joke telling server.
