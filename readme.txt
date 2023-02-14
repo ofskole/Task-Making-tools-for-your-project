@@ -12,7 +12,7 @@ npm install https://github.com/ofskole/Task-Making-tools-for-your-project.git
 
 Usage
 
-const getLanguageData = require("./languageModule/dictionary.js");
+const getLanguageData = require("./languageModule/dictionary.js"); //check location.
 
 const languageData = getLanguageData("english"); / let data = await getLanguageData(language);
 
