@@ -1,12 +1,4 @@
-Language module for "Making tools for your project".
-
-This is a node.js module that returns the data of a specific language in json fromat.
-
-
-
-Installation
-
-npm install https://github.com/ofskole/Task-Making-tools-for-your-project.git
+Language module for the task "Making tools for your project".
 
 
 
