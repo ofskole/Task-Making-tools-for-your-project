@@ -1,1 +1,0 @@
-Once (but also still) the home of a language module, but now soon to be kick-ass multilingual joke telling server.
