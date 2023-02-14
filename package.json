@@ -1,22 +1,4 @@
 {
-  "name": "languagemodule",
-  "version": "1.0.0",
-  "description": "Language module for \"Making tools for your project\".",
-  "main": "dictionary.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ofskole/Task-Making-tools-for-your-project.git"
-  },
-  "keywords": [
-    "languages"
-  ],
-  "author": "me",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ofskole/Task-Making-tools-for-your-project/issues"
-  },
-  "homepage": "https://github.com/ofskole/Task-Making-tools-for-your-project#readme"
+    "name": "languagemoduleproject-mm207",
+    "version": "0.0.1"
 }
